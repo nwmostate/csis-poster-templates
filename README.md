@@ -8,10 +8,10 @@ To create a single poster using one of the templates, make a copy of the .pptx y
 
 ## Templates
 
-simple_nw_green: Layout based on ![Horizontal template with results arena](https://colinpurrington.com/tips/poster-design)
+simple_nw_green: Layout based on [Horizontal template with results arena](https://colinpurrington.com/tips/poster-design)
 
 ## Colors and Logos
 
-* ![Northwest MO State Logos](https://www.nwmissouri.edu/marketing/design/logos.htm)
-* ![Northwest MO State Graphic Standards](https://www.nwmissouri.edu/marketing/pdf/design/InstitutionalGraphicStandards.pdf)
+* [Northwest MO State Logos](https://www.nwmissouri.edu/marketing/design/logos.htm)
+* [Northwest MO State Graphic Standards](https://www.nwmissouri.edu/marketing/pdf/design/InstitutionalGraphicStandards.pdf)
 
