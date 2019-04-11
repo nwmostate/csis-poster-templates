@@ -1,5 +1,7 @@
 # Poster Templates
 
+# THESE ARE A WORK IN PROGRESS
+
 This repository contains some simple research poster templates for Microsoft PowerPoint.
 
 To import and use the templates in powerpoint (for multiple posters, perhaps, or to modify the theme to your liking) follow the directions [here](https://support.office.com/en-us/article/apply-a-template-to-a-new-presentation-d3d4ece5-e965-45eb-9423-c34e61b34616#officeversion=2016,_2013)
