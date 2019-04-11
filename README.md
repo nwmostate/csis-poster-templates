@@ -17,7 +17,9 @@ When using these templates you should remove boxes that are not helpful to you, 
 ## Templates
 
 * simple_nw_green: Layout based on [Horizontal template with results arena](https://colinpurrington.com/tips/poster-design)
-* abstract_bg: [Color palette] (https://coolors.co/06070e-294936-3e6259-5b8266-006747)
+![Simple NW Green Preview](img/preview/simple_nw_green.PNG)
+* abstract_bg: [Color palette](https://coolors.co/06070e-294936-3e6259-5b8266-006747)
+![Abstract BG Preview](img/preview/abstract_bg.PNG)
 
 ## Colors and Logos
 
